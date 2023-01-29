@@ -4,14 +4,10 @@
 
 Coconut Island 是一个自发的开源爱好者组成的社区，目前成员是杭州各公司在职的Web全栈以及AI算法工程师。
 
-现在在做一个在PC端CPU运行的人脸平台CNIFace，包括算法推理部分、Web后端以及Web前端，
-目的是想向别人介绍，人脸平台的实现流程是如何具体实现的。
+正在作一个基于TensorRT的一个各种推理模型的综合性Repo，提供gprc接口，以及尽可能Web展示。
 
-CNIFace算法推理部分选用TVM LLVM做为推理引擎，原因是因为我所在的公司的技术选型是用TVM作为前端。
+目的是想向别人介绍，AI接口封装是如何实践的，最终希望可以直接拿来二次开发使用。
 
-GPU 等逻辑流畅后，可能会打算写一版本。
+CNIAI Web部分，选用的是后端Java Spring全家桶和前端框架react，
 
-CNIFace Web部分，选用的是Java Spring全家桶以及前端框架react，
-选用antdpro是因为纯粹偷懒，想要快速集成开发。
-
-如果CNIFace能帮助到你，那请点个start再走吧。
+如果CNI社区能帮助到你，那请在CNIAI Repo点个star再走吧。
