@@ -2,7 +2,7 @@
 
 ![images](https://avatars.githubusercontent.com/u/104977332?s=200&v=4)
 
-Coconut island 是一个自发的开源爱好者组成的社区，目前成员是杭州各公司在职的Web全栈以及AI算法工程师。
+Coconut island 是一个自发的开源爱好者组成的社区。
 
 正在作一个基于NV的一个各种推理模型的综合性Repo，提供gprc接口，以及尽可能Web展示。
 
